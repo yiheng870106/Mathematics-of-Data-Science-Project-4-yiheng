@@ -14,10 +14,7 @@ and copy this template repository. Make your new repository is public so that I 
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/math-data-science-course/Project4/blob/main/project4.ipynb)
-
-*Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
-https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project4.ipynb
+https://colab.research.google.com/gist/yiheng870106/8ef9036e7ed9e4cbfb12d06826134c4a/project4.ipynb)
 
 
 ### Save a copy in GitHub.
